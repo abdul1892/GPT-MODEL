@@ -1,4 +1,20 @@
+## 🤖 GPT Model Fine-Tuning Overview
 
+This project demonstrates how to fine-tune a pre-trained GPT (Generative Pretrained Transformer) model on a custom dataset for domain-specific text generation. Fine-tuning allows the base model to adapt to specialized tasks, such as chatbot responses, content generation, or customer support automation, by learning from examples relevant to your specific application.
+
+The fine-tuned model learns context, tone, and patterns from the training data to generate more accurate and contextually relevant outputs compared to the base GPT model.
+
+---
+
+## 🔧 What Fine-Tuning Includes
+
+- Preparing a dataset in prompt-completion format
+- Tokenizing input using GPT-compatible tokenizers
+- Training the model on a specific domain (e.g., medical Q&A, tech support)
+- Evaluating generation quality and model loss
+- Saving and reusing the fine-tuned model
+
+---
 
 
 ## install
@@ -181,6 +197,8 @@ python sample.py \
 ```
 
 If you'd like to sample from a model you trained, use the `--out_dir` to point the code appropriately. You can also prompt the model with some text from a file, e.g. ```python sample.py --start=FILE:prompt.txt```.
+
+Based on work from https://github.com/karpathy/nanoGPT"
 
 
 

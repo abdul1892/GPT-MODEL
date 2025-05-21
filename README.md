@@ -198,7 +198,7 @@ python sample.py \
 
 If you'd like to sample from a model you trained, use the `--out_dir` to point the code appropriately. You can also prompt the model with some text from a file, e.g. ```python sample.py --start=FILE:prompt.txt```.
 
-Based on work from https://github.com/karpathy/nanoGPT"
+Based on work from https://github.com/karpathy/nanoGPT
 
 
 

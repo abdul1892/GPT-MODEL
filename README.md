@@ -200,6 +200,13 @@ If you'd like to sample from a model you trained, use the `--out_dir` to point t
 
 Based on work from https://github.com/karpathy/nanoGPT
 
+##Contact
+J Abdul Rahman
+
+Email: abdulrahmanj965@gmail.com
+
+Project Link: https://github.com/abdul1892/GPT-MODEL
+
 
 
 

@@ -81,13 +81,7 @@ python train.py config/finetune_shakespeare.py
 
 Based on work from https://github.com/karpathy/nanoGPT
 
-##Contact
 
-J Abdul Rahman
-
-Email: abdulrahmanj965@gmail.com
-
-Project Link: https://github.com/abdul1892/GPT-MODEL
 
 
 
